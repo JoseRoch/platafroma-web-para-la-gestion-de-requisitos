@@ -49,8 +49,8 @@ Pensada para colaboradores de cualquier área (operaciones, ventas, logística, 
 
 *Aquí se mostrarán imágenes de la vista del cliente durante el proceso de construcción.*
 
-```
-[Imagen - Vista Cliente]
+```md
+![Vista Cliente](./screenshots/vista-cliente.png)
 ```
 
 ---
@@ -71,8 +71,8 @@ Diseñada para equipos técnicos, líderes de producto o responsables de sistema
 
 *Aquí se mostrarán imágenes clave del panel administrativo.*
 
-```
-[Imagen - Vista Administrador]
+```md
+![Vista Administrador](./screenshots/vista-administrador.png)
 ```
 
 ---
@@ -90,9 +90,9 @@ La plataforma cuenta con un sistema de autenticación seguro y sencillo.
 
 📸 **Login y Registro**
 
-```
-[Imagen - Login]
-[Imagen - Registro]
+```md
+![Login](./screenshots/login.png)
+![Registro](./screenshots/registro.png)
 ```
 
 ---
@@ -110,6 +110,19 @@ Esto permite que los requisitos lleguen a los equipos técnicos de forma más cl
 
 ---
 
+## 🧰 Tecnologías Utilizadas
+
+Este proyecto fue desarrollado utilizando un stack orientado a aplicaciones web tradicionales, combinado con servicios de Inteligencia Artificial:
+
+* **PHP** – Lógica del servidor y procesamiento de datos.
+* **MySQL** – Base de datos relacional.
+* **HTML5** – Estructura de las vistas.
+* **CSS3** – Estilos personalizados.
+* **Bootstrap** – Diseño responsive y componentes UI.
+* **API de OpenAI** – Asistencia con Inteligencia Artificial para la creación y mejora de requisitos.
+
+---
+
 ## 🖼️ Proceso de Construcción
 
 Durante el desarrollo del proyecto se documentaron distintas etapas del proceso:
@@ -121,10 +134,10 @@ Durante el desarrollo del proyecto se documentaron distintas etapas del proceso:
 
 📸 **Imágenes del proceso de construcción**
 
-```
-[Imagen - Proceso 1]
-[Imagen - Proceso 2]
-[Imagen - Proceso 3]
+```md
+![Proceso de Construcción 1](./screenshots/proceso-1.png)
+![Proceso de Construcción 2](./screenshots/proceso-2.png)
+![Proceso de Construcción 3](./screenshots/proceso-3.png)
 ```
 
 ---
@@ -137,23 +150,7 @@ Durante el desarrollo del proyecto se documentaron distintas etapas del proceso:
 * ✔️ Mejora la comunicación entre áreas.
 * ✔️ Facilita la transformación digital.
 
----
 
-## 📌 Estado del Proyecto
-
-🚧 **En desarrollo / en evolución continua**
-
-El proyecto sigue creciendo con nuevas funcionalidades y mejoras basadas en feedback real.
-
----
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas:
-
-* Sugerencias
-* Issues
-* Pull Requests
 
 ---
 
@@ -164,3 +161,4 @@ Este proyecto se distribuye bajo la licencia correspondiente definida por el aut
 ---
 
 ✨ *Este proyecto nace con la idea de que cualquier persona, sin importar su perfil técnico, pueda ser parte activa en la creación de soluciones de software.*
+
