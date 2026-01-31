@@ -91,7 +91,7 @@ La plataforma cuenta con un sistema de autenticación seguro y sencillo.
 📸 **Login y Registro**
 
 ```md
-![Login](./screenshots/login.png)
+![Login](screenshots/login.png)
 ![Registro](./screenshots/registro.png)
 ```
 
